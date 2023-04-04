@@ -1,0 +1,4 @@
+pre-commit==3.2.1
+
+pip install -r src/frontend/requirements.txt
+pip install -r src/backend/requirements.txt
